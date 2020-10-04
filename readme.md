@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Зиборов](https://up.htmlacademy.ru/nodejs/3/user/60391).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Цапко](https://htmlacademy.ru/profile/id1350525).
 
 ---
 
